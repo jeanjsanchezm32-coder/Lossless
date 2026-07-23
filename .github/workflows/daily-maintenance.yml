@@ -16,10 +16,12 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Update Out-of-date PRs
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           PRS=$(gh pr list --state open --json number --jq '.[].number')
           for PR in $PRS; do
@@ -30,6 +32,7 @@ jobs:
       - name: Stale PR and Issue Cleanup
         uses: actions/stale@v9
         with:
+          repo-token: ${{ secrets.PAT_TOKEN }}
           stale-issue-message: 'This issue is stale because it has been open for 30 days with no activity.'
           stale-pr-message: 'This PR is stale because it has been open for 30 days with no activity.'
           days-before-stale: 30

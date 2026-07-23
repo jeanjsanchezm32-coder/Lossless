@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Validate PR Files
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
         run: |
           echo "Fetching files changed in PR..."
@@ -49,7 +49,7 @@ jobs:
           
       - name: Auto-Approve and Merge
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
         run: |
           gh pr review --approve "$PR_URL" || true
