@@ -1,6 +1,176 @@
 {
   "items": [
     {
+      "song": "Can't Help Falling In Love",
+      "artist": "Elvis Presley",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tk2105-dot-1785002595534-Can_t_Help_Falling_in_Love_-_Elvis_Presley.flac"
+    },
+    {
+      "song": "Her & the Sea - Clann",
+      "artist": "Clann",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Her_&_the_Sea_Clann.flac"
+    },
+    {
+      "song": "Tell Me",
+      "artist": "Wonder Girls (\uc6d0\ub354\uac78\uc2a4)",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/p67923102-source-1785001596238-Peso_Pluma_-_LAGUNAS.flac"
+    },
+    {
+      "song": "MAMI",
+      "artist": "Ikkimel, The Cratez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785002007627-POPPSTAR__MAMI__13__-_Ikkimel__2026_.flac"
+    },
+    {
+      "song": "KINK",
+      "artist": "Ikkimel, Barr\u00e9, Florida Juicy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001601515-POPPSTAR__KINK__07__-_Ikkimel__2026_.flac"
+    },
+    {
+      "song": "SCHERE",
+      "artist": "Ikkimel, jaynbeats, Pintendari",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001649444-POPPSTAR__SCHERE__03__-_Ikkimel__2026_.flac"
+    },
+    {
+      "song": "Daddy",
+      "artist": "Coldplay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tk2105-dot-1784995483849-Daddy_-_Coldplay.flac"
+    },
+    {
+      "song": "The Winner Takes It All",
+      "artist": "ABBA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tk2105-dot-1785001227998-The_Winner_Takes_It_All_-_ABBA.flac"
+    },
+    {
+      "song": "KOKOSNUSS",
+      "artist": "Ikkimel, Florida Juicy, Barr\u00e9",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001895921-POPPSTAR__KOKOSNUSS__04__-_Ikkimel__2026_.flac"
+    },
+    {
+      "song": "KETA UND KRAWALL",
+      "artist": "Ikkimel, Barr\u00e9",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001838936-BIKINI_GRELL__KETA_UND_KRAWALL__02__-_Ikkimel__2024_.flac"
+    },
+    {
+      "song": "Haseeno Ka Deewana",
+      "artist": "Raftaar, Payal Dev",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785001890823-Haseeno_Ka_Deewana.flac"
+    },
+    {
+      "song": "Afterglow",
+      "artist": "Ed Sheeran",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tk2105-dot-1784995584497-Afterglow_-_Ed_Sheeran.flac"
+    },
+    {
+      "song": "UNISEXKLO",
+      "artist": "Ikkimel, Lucry & Suena",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001771912-FOTZE__UNISEXKLO__06__-_Ikkimel__2025_.flac"
+    },
+    {
+      "song": "Game Over",
+      "artist": "Hiphop Tamizha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-game_over.flac"
+    },
+    {
+      "song": "Heart-Quake",
+      "artist": "Hiphop Tamizha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-heart-quake.flac"
+    },
+    {
+      "song": "Imaikkaa Nodiyil",
+      "artist": "Sanjith Hegde",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-imaikkaa_nodiyil.flac"
+    },
+    {
+      "song": "Kadhal Oru Aagayam",
+      "artist": "Hiphop Tamizha, TeeJay, Al Rufian, and Al",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kadhal_oru_aagayam.flac"
+    },
+    {
+      "song": "Kadhalikathey (From \"Imaikkaa Nodigal\")",
+      "artist": "Hiphop Tamizha, Kaushik Krish",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kadhalikathey_from_imaikkaa_nodigal_.flac"
+    },
+    {
+      "song": "Lion vs Hyenas",
+      "artist": "Magizh Thirumeni",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-lion_vs_hyenas.flac"
+    },
+    {
+      "song": "Neeyum Naanum Anbe",
+      "artist": "Raghu Dixit, Sathyaprakash D, Jithin Raj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-neeyum_naanum_anbe.flac"
+    },
+    {
+      "song": "Time To Meet",
+      "artist": "Hiphop Tamizha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-time_to_meet.flac"
+    },
+    {
+      "song": "Vilambara Idaiveli (From \"Imaikkaa Nodigal\")",
+      "artist": "Hiphop Tamizha, Christopher Stanley, Sudarshan Ashok, Srinisha Jayaseelan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-vilambara_idaiveli_from_imaikkaa_nodigal_.flac"
+    },
+    {
+      "song": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-locked_out_of_heaven.flac"
+    },
+    {
+      "song": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/nihary1132-1785002207057-Diet_Pepsi_-_Addison_Rae.flac"
+    },
+    {
+      "song": "GIFTMORD",
+      "artist": "Ikkimel, Barr\u00e9",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001976102-GIFTMORD__GIFTMORD__01__-_Ikkimel__2025_.flac"
+    },
+    {
+      "song": "Eye of the Tiger",
+      "artist": "Survivor",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tk2105-dot-1785001276183-Eye_of_the_Tiger_-_Survivor.flac"
+    },
+    {
+      "song": "TIPPS VON MIR",
+      "artist": "Ikkimel, nocashfromparents, Florida Juicy, Barr\u00e9",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001734330-POPPSTAR__TIPPS_VON_MIR__06__-_Ikkimel__2026_.flac"
+    },
+    {
+      "song": "Dandelions",
+      "artist": "Ruth B.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shreyasog-1785004727388-Dandelions.flac"
+    },
+    {
+      "song": "Solitude (Felsmann + Tiley Reinterpretation)",
+      "artist": "M83, Felsmann + Tiley",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Solitude_Felsmann_Tiley_M83.flac"
+    },
+    {
+      "song": "BIKINI GRELL",
+      "artist": "Ikkimel, Robbensohn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001867454-BIKINI_GRELL__BIKINI_GRELL__01__-_Ikkimel__2024_.flac"
+    },
+    {
+      "song": "WANDERHURE",
+      "artist": "Ikkimel, Florida Juicy, Barr\u00e9",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001703232-POPPSTAR__WANDERHURE__09__-_Ikkimel__2026_.flac"
+    },
+    {
+      "song": "Orphans",
+      "artist": "Coldplay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tk2105-dot-1784995444618-Orphans_-_Coldplay.flac"
+    },
+    {
+      "song": "WHO'S THAT",
+      "artist": "Ikkimel",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/unsold110annotate-1785001804375-POPPSTAR__WHO_S_THAT__12__-_Ikkimel__2026_.flac"
+    },
+    {
+      "song": "Golfista",
+      "artist": "DUKI",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jeanjsanchezm32-coder-1784997622839-10_-_Golfista_-_Duki.flac"
+    },
+    {
       "song": "Happy Now?",
       "artist": "FINNEAS",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989368390-FINNEAS_-_Happy_Now_.flac"
