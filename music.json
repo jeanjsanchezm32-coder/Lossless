@@ -1,6 +1,251 @@
 {
   "items": [
     {
+      "song": "Her & the Sea - Clann",
+      "artist": "Clann",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Her_&_the_Sea_Clann.flac"
+    },
+    {
+      "song": "SERIO CON ESE Q",
+      "artist": "Omar Courtz, Anuel AA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013724280-SERIO_CON_ESE_Q_-_Omar_Courtz__Anuel_AA.flac"
+    },
+    {
+      "song": "\u2060LUCES DE COLORES",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013795149-_LUCES_DE_COLORES_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "JAY-Z",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/goeltrying-1785006623262-Empire_State_Of_Mind__feat._Alicia_Keys__-_JA_-Z.flac"
+    },
+    {
+      "song": "G O D D E S S",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785012405304-G_O_D_D_E_S_S_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "UNA NOTi",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785012883369-UNA_NOTi_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "P I E N S A S E N M I (con Luar La L)",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013199678-P_I_E_N_S_A_S_E_N_M_I_-_Omar_Courtz__Luar_La_L.flac"
+    },
+    {
+      "song": "HASTA QUE ME ENAMORO",
+      "artist": "Maria Becerra, TINI, XROSS",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785006573664-HASTA_QUE_ME_ENAMORO_-_Maria_Becerra__TINI__Xross.flac"
+    },
+    {
+      "song": "Millon Freestyle",
+      "artist": "Yan Block",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sntiagorizzler-bot-1785015148435-Millon_Freestyle_-_Yan_Block.flac"
+    },
+    {
+      "song": "I N T R O",
+      "artist": "Omar Courtz, Kendo Kaponi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785011663408-I_N_T_R_O_-_Omar_Courtz__Kendo_Kaponi.flac"
+    },
+    {
+      "song": "Haareya",
+      "artist": "Arijit Singh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/goeltrying-1785008046801-Haareya_-_Arijit_Singh.flac"
+    },
+    {
+      "song": "222",
+      "artist": "Yan Block",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sntiagorizzler-bot-1785014452124-357_-_222_-_Yan_Block.flac"
+    },
+    {
+      "song": "\u3089\u3089\u3089 - Sakura rain",
+      "artist": "Nanatsukaze",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/spuruxx-1785012640596-01_-_Nanatsukaze_-_Sakura_rain.flac"
+    },
+    {
+      "song": "2Tonos",
+      "artist": "DUKI",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jeanjsanchezm32-coder-1785010811213-08_-_2Tonos_-_Duki.flac"
+    },
+    {
+      "song": "D\u00f3nde Est\u00e1s",
+      "artist": "KHEA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785011455441-D_nde_Est_s_-_KHEA.flac"
+    },
+    {
+      "song": "Si Se\u00f1or",
+      "artist": "Control Machete",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/cesarsantiago072010-cyber-1785012972253-Control_Machete_-_Si_Se_or.flac"
+    },
+    {
+      "song": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-locked_out_of_heaven.flac"
+    },
+    {
+      "song": "\u2060P o l v o s Q u e N o S e O l v i d a n",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013297281-_P_o_l_v_o_s_Q_u_e_N_o_S_e_O_l_v_i_d_a_n_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "A Life Full of Love Theme (Instrumental)",
+      "artist": "Anirudh Ravichander, The Chennai Strings Orchestra",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-a_life_full_of_love_theme_instrumental_.flac"
+    },
+    {
+      "song": "Come on Girls (The Celebration of Love)",
+      "artist": "Anirudh Ravichander, Nadisha Thomas, Mali",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-come_on_girls_the_celebration_of_love_.flac"
+    },
+    {
+      "song": "Idhazhin Oram (The Innocence of Love)",
+      "artist": "Anirudh Ravichander, Ajesh, Aishwarya R Dhanush",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-idhazhin_oram_the_innocence_of_love_.flac"
+    },
+    {
+      "song": "Kannazhaga (The Kiss of Love)",
+      "artist": "Anirudh Ravichander, Dhanush, Shruti Haasan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kannazhaga_the_kiss_of_love_.flac"
+    },
+    {
+      "song": "Nee Paartha Vizhigal (The Touch of Love)",
+      "artist": "Anirudh Ravichander, Vijay Yesudas, Shweta Mohan, Dhanush",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-nee_paartha_vizhigal_the_touch_of_love_.flac"
+    },
+    {
+      "song": "Po Nee Po (Remix - The Scream of Love)",
+      "artist": "Anirudh Ravichander, Sathya Prakash, Harish Swaminathan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-po_nee_po_remix_-_the_scream_of_love_.flac"
+    },
+    {
+      "song": "Po Nee Po (The Pain of Love)",
+      "artist": "Anirudh Ravichander, Mohit Chauhan, Dhanush",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-po_nee_po_the_pain_of_love_.flac"
+    },
+    {
+      "song": "The Rhythm of Love Theme (Theme)",
+      "artist": "Anirudh Ravichander, Navin Iyer",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-the_rhythm_of_love_theme_theme_.flac"
+    },
+    {
+      "song": "Why This Kolaveri Di? (The Soup of Love)",
+      "artist": "Anirudh Ravichander, Dhanush",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-why_this_kolaveri_di_the_soup_of_love_.flac"
+    },
+    {
+      "song": "Moonlight",
+      "artist": "XXXTENTACION",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shivanium-git-1785005046443-Moonlight_-_Xxxtentacion.flac"
+    },
+    {
+      "song": "S E X P L A Y L I S T 1",
+      "artist": "Omar Courtz, Rauw Alejandro",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013662695-S_E_X_P_L_A_Y_L_I_S_T_1_-_Omar_Courtz__Rauw_Alejandro.flac"
+    },
+    {
+      "song": "Granite",
+      "artist": "Sleep Token",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/neron18-1785013847486-Sleep_Token_-_03_GRANITE.flac"
+    },
+    {
+      "song": "eCLIPSE sOLAR",
+      "artist": "DUKI",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jeanjsanchezm32-coder-1785010857705-07_-_eCLIPSE_sOLAR_-_Duki.flac"
+    },
+    {
+      "song": "I N T E R L U D I O",
+      "artist": "Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013406020-I_N_T_E_R_L_U_D_I_O_-_Omar_Courtz.flac"
+    },
+    {
+      "song": "Deja Vu (con Yan Block)",
+      "artist": "J Abdiel",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785006394917-Deja_Vu_-_J_Abdiel__Yan_Block.flac"
+    },
+    {
+      "song": "2 K 1 6",
+      "artist": "Omar Courtz, Bryant Myers",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013481704-2_K_1_6_-_Omar_Courtz__Bryant_Myers.flac"
+    },
+    {
+      "song": "Satranga",
+      "artist": "Arijit Singh, Shreyas Puranik, & Siddharth-Garima",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shreyasog-1785006519455-Satranga__From_Animal_.flac"
+    },
+    {
+      "song": "En Tus Sue\u00f1os",
+      "artist": "Arc\u00e1ngel, Yan Block",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sntiagorizzler-bot-1785015099508-49_-_En_Tus_Sue_os_-_Arc_ngel__Yan_Block.flac"
+    },
+    {
+      "song": "Mirage",
+      "artist": "Creepy Nuts",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1784983163390-01_-_Mirage__OP_Theme_to_Call_of_the_Night_Season_2__-_Creepy_Nuts_24bit-48khz.flac"
+    },
+    {
+      "song": "Blockia (con DJ Luian y Mambo Kingz)",
+      "artist": "Bad Bunny, Farruko",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785006321600-Blockia_-_Bad_Bunny__Farruko__Dj_Luian__Mambo_Kingz.flac"
+    },
+    {
+      "song": "Rain",
+      "artist": "Sleep Token",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/neron18-1785013892635-Sleep_Token_-_10_RAIN.flac"
+    },
+    {
+      "song": "Solitude (Felsmann + Tiley Reinterpretation)",
+      "artist": "M83, Felsmann + Tiley",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Solitude_Felsmann_Tiley_M83.flac"
+    },
+    {
+      "song": "666",
+      "artist": "Yan Block, Cris Mj, Panda Black",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sntiagorizzler-bot-1785014918290-256_-_666_-_Yan_Block__Cris_Mj__Panda_Black.flac"
+    },
+    {
+      "song": "Q U E V A S H A C E R H O Y ?",
+      "artist": "Omar Courtz, De La Rose",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785013567060-Q_U_E_V_A_S_H_A_C_E_R_H_O_Y_-_Omar_Courtz__De_la_rose.flac"
+    },
+    {
+      "song": "LA DURANGO",
+      "artist": "Peso Pluma, Junior H, Eslabon Armado",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/cesarsantiago072010-cyber-1785012939281-Peso_Pluma_-_LA_DURANGO.flac"
+    },
+    {
+      "song": "Feel It Still",
+      "artist": "Portugal. The Man",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/goeltrying-1785006806131-Feel_It_Still_-_Portugal._The_Man.flac"
+    },
+    {
+      "song": "Midnight City",
+      "artist": "M83",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-Midnight_City_M83.flac"
+    },
+    {
+      "song": "YeYe",
+      "artist": "Yan Block",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sntiagorizzler-bot-1785015273294-314_-_YeYe_-_Yan_Block.flac"
+    },
+    {
+      "song": "aGaRRo La PLaTa",
+      "artist": "DUKI, Cl\u00faster",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jeanjsanchezm32-coder-1785010652184-09_-_aGaRRo_La_PLaTa_-_Duki.flac"
+    },
+    {
+      "song": "J's INTERLUDE",
+      "artist": "ROA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sntiagorizzler-bot-1785015411158-165_-_J_s_INTERLUDE_-_ROA.flac"
+    },
+    {
+      "song": "Can You Hear The Music",
+      "artist": "Ludwig G\u00f6ransson",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tommy5911-1785010645114-02._Ludwig_Goransson_-_Can_You_Hear_The_Music.flac"
+    },
+    {
       "song": "Can't Help Falling In Love",
       "artist": "Elvis Presley",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tk2105-dot-1785002595534-Can_t_Help_Falling_in_Love_-_Elvis_Presley.flac"
